@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiMais.LojaVirtual.Dominio", "MultiMais.LojaVirtual.Dominio\MultiMais.LojaVirtual.Dominio.csproj", "{7EB9EB76-A89C-40AA-BC0F-80AAE74C5BC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiMais.LojaVirtual.Web", "MultiMais.LojaVirtual.Web\MultiMais.LojaVirtual.Web.csproj", "{DA710115-5850-41E0-AB75-945115CB6C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiMais.LojaVirtual.UnitTest", "MultiMais.LojaVirtual.UnitTest\MultiMais.LojaVirtual.UnitTest.csproj", "{006F550D-7864-442C-8C24-D08FF7B48192}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB9EB76-A89C-40AA-BC0F-80AAE74C5BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB9EB76-A89C-40AA-BC0F-80AAE74C5BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB9EB76-A89C-40AA-BC0F-80AAE74C5BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB9EB76-A89C-40AA-BC0F-80AAE74C5BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA710115-5850-41E0-AB75-945115CB6C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA710115-5850-41E0-AB75-945115CB6C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA710115-5850-41E0-AB75-945115CB6C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA710115-5850-41E0-AB75-945115CB6C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{006F550D-7864-442C-8C24-D08FF7B48192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006F550D-7864-442C-8C24-D08FF7B48192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006F550D-7864-442C-8C24-D08FF7B48192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006F550D-7864-442C-8C24-D08FF7B48192}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
